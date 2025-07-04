@@ -1,0 +1,55 @@
+h1 {
+    text-align:center;
+}
+
+header {
+    background-color: #f8bbd0ae;
+    padding:15px;
+}
+
+body {
+    background-color: #ffe0edae;
+}
+
+h2 {
+    text-align:center;
+    color: #cc8d6f;
+}
+
+p {
+    font-size:20px;
+}
+
+ul {
+    font-size:20px
+}
+
+table {
+    border: 2px solid #ec728a;
+    border-collapse:collapse;
+}
+
+td {
+    border: 2px solid #ec728a;
+}
+
+.brown {
+    color:brown;
+    background-color: #e5bbbb;
+    border: 2px dotted brown;
+    padding:5px;
+}
+
+.navi {
+    text-decoration:none;
+    margin: 100px;
+    border: 3px dashed brown;
+    padding:7px;
+    border-radius: 20px;
+    background-color: #ff91aeae;
+}
+
+nav {
+    text-align:center;
+
+}
